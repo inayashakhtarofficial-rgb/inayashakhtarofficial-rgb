@@ -1,53 +1,59 @@
-<!-- 🔥 Premium Header -->
+<!-- 🌈 PREMIUM HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1f4037,100:99f2c8&height=180&section=header&text=Inayash%20Akhtar&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7f00ff,100:e100ff&height=220&section=header&text=Inayash%20Akhtar&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">💻 Inayash Akhtar</h1>
+<h1 align="center">✨ Inayash Akhtar ✨</h1>
 
 <h3 align="center">
-  🚀 Software Developer in Progress • 🧠 Problem Solver • 👑 Leader
+  💻 Software Developer in Progress • 🚀 Problem Solver • 👑 Leader
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C9A7&center=true&vCenter=true&width=750&lines=Top+1%25+Performer+in+India;96%25+Academic+Excellence;Hackathon+Winner;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=DA22FF&center=true&vCenter=true&width=900&lines=Top+1%25+Performer+in+India;96%25+Academic+Excellence;Hackathon+Winner;Future+Software+Engineer;Building+with+Consistency" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Profile Overview
 
-I am Inayash Akhtar, a second-year Computer Science student at Delhi University with a strong focus on software development and problem solving. I have consistently demonstrated academic excellence, ranking among the Top 1% in India during Class 10 and achieving 96% in Class 12. Currently, I am actively working on building my technical skills and gaining real-world development experience.
+A second-year Computer Science student at Delhi University, recognized for academic excellence and a strong inclination towards software development. Ranked among the Top 1% in India during Class 10 and secured 96% in Class 12, reflecting consistency, discipline, and a results-driven mindset.  
 
----
-
-## 💻 Technical Journey
-
-My primary interest lies in software development, where I am continuously improving my skills in programming, web technologies, and logical problem solving. Through hackathons and collaborative environments, I have learned how to build efficient solutions, debug effectively, and think from a real-world product perspective. I am also exploring Git/GitHub, system design basics, and clean coding practices.
+A combination of analytical thinking, curiosity, and a growth-oriented approach drives continuous improvement in both technical and personal domains. Alongside academics, leadership experience as Head Girl has built strong decision-making ability, responsibility, and the confidence to lead from the front.
 
 ---
 
-## ⚡ Skills & Tech Stack
+## 💻 Technical Direction
+
+Focused on developing strong foundations in programming, problem solving, and real-world software development practices. Actively exploring multiple technologies, understanding how systems work, and building the ability to create efficient and scalable solutions.  
+
+Participation in hackathons and competitive environments has strengthened adaptability, debugging skills, and the ability to think under pressure. Emphasis remains on writing clean, maintainable code while continuously improving logical thinking and development efficiency.
+
+---
+
+## ⚡ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" />
-  <br/>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=github,vscode,figma" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Recognition
 
-- 🥇 Top 1% Rank in India (Class 10)  
-- 🎯 96% in Class 12 Boards  
-- 💻 Hackathon Winner (1–2 Wins)  
-- 👑 Head Girl – Leadership Role  
-- 🏅 Academic Excellence Recognition  
+- 🥇 Ranked in the **Top 1% across India** (Class 10)  
+- 🎯 Achieved **96% in Class 12 Boards**  
+- 💻 **Hackathon Winner** (Multiple Participations & Wins)  
+- 👑 Served as **Head Girl** – Leadership & Responsibility  
+- 🏅 Recognized for consistent academic excellence  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -56,27 +62,33 @@ My primary interest lies in software development, where I am continuously improv
 
 ---
 
-## 🌍 Contribution Graph
+## 🌍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&area=true&hide_border=true"/>
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- 💻 Strengthening Software Development Skills  
-- 🧠 Improving Problem Solving & Logic Building  
-- 🚀 Working on Real-World Projects  
-- 🏆 Participating in Hackathons & Competitions  
+- 💻 Strengthening software development fundamentals  
+- 🧠 Advancing problem-solving and logical thinking  
+- 🚀 Building real-world development projects  
+- 🏆 Participating in hackathons and competitions  
 
 ---
 
-## 💬 Motto
+## 🌱 Growth Mindset
+
+A continuous learner with a focus on improvement, consistency, and execution. The journey revolves around building skills that create real impact, rather than just theoretical knowledge. Every step is aligned with the vision of becoming a highly capable and confident software engineer.
+
+---
+
+## 💬 Perspective
 
 <p align="center">
-  <b>"Consistency and execution build real success."</b>
+<b>"Consistency, discipline, and execution define long-term success."</b>
 </p>
 
 ---
@@ -85,13 +97,13 @@ My primary interest lies in software development, where I am continuously improv
 
 <p align="center">
   <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Connect-00C9A7?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Connect-DA22FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- 🔥 Footer -->
+<!-- 🌈 FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:e100ff&height=140&section=footer"/>
 </p>
